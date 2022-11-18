@@ -13,6 +13,7 @@ Link de acesso: https://dsmeta-thaisbatista.netlify.app/
 
 # Status do Projeto
  ✔️ Projeto base <br/> 
+ 🚧 Configuração de telefone para envio de SMS <br/> 
  🚧 CRUD de Vendedores em construção
 
  
